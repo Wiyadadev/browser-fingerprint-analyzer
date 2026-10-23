@@ -1,7 +1,9 @@
 # Browser Fingerprint Analyzer
 
 An educational browser privacy research project by VYADA Security. Inspect browser-exposed signals, generate a SHA-256 fingerprint, and compare snapshots between browsers on the same device.
+## Demo
 
+![Browser Fingerprint Analyzer Demo](browser-fingerprint-analyzer-demo.png)
 ## Features
 
 - User-Agent, language, timezone, screen resolution/pixel ratio, and logical CPU threads.
